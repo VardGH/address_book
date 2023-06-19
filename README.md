@@ -18,7 +18,7 @@ The Address Book program is a simple command-line application that allows users 
 
 ## Usage
 
-1. Launch the program.
+1. Run the program.
 2. Choose an option from the menu:
    - Add a new contact: Enter the contact details when prompted.
    - Remove a contact: Enter the name of the contact to be removed.
