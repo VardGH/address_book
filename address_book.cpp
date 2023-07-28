@@ -36,7 +36,7 @@ void AddressBook::add_contact()
     new_contatct.set_phone_number(new_phone_number);
 
     std::string new_email = "";
-    std::cout << "Please enter a email: ";
+    std::cout << "Please enter an email: ";
     std::cin >> new_email;
     new_contatct.set_email(new_email);
 
